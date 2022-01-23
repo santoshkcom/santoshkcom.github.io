@@ -1,2 +1,2 @@
-# santoshkumar.github.io
+# santoshkcom.github.io
 Personal website
